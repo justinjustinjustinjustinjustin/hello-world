@@ -1,3 +1,4 @@
 hearts
 stars
 horseshoes
+clovers
